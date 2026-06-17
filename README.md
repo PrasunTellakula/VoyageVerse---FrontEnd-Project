@@ -112,8 +112,8 @@ Each category page provides a rich, detailed experience for every destination:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/VoyageVerse.git
-   cd VoyageVerse
+   git clone https://github.com/PrasunTellakula/VoyageVerse---FrontEnd-Project.git
+   cd VoyageVerse---FrontEnd-Project
    ```
 
 2. **Set up API keys**
